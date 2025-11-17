@@ -1,0 +1,5 @@
+{
+  "name": "Android App Builder",
+  "description": "An AI-powered tool to generate a complete set of application files for a custom framework based on a user's description. It creates configuration, resource, and logic files.",
+  "requestFramePermissions": []
+}
